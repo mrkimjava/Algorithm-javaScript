@@ -1,6 +1,4 @@
-<div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
-
-    <div class="guide-section-description">
+<div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>한자리 숫자가 적힌 종이 조각이 흩어져있습니다. 흩어진 종이 조각을 붙여 소수를 몇 개 만들 수 있는지 알아내려 합니다.</p>
 
@@ -46,8 +44,6 @@
 <p><a href="http://2009.nwerc.eu/results/nwerc09.pdf" target="_blank" rel="noopener">출처</a></p>
 </div>
     </div>
-
-  </div>
   
   
 <br>
