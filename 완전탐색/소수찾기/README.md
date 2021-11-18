@@ -48,5 +48,8 @@
   
 <br>
 
+## 후기
+- 완전탐색은 탐색방법이 여러가지 방법이 있는데 깊이우선탐색(DFS)을 이용하여 모든경우의수를 구해봤습니다
+
 ## 풀이
 <img src="https://user-images.githubusercontent.com/91609858/142420849-7068e861-7240-48fc-8d7d-10c733a372a7.PNG" width="500" height="800">
