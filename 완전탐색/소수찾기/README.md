@@ -47,5 +47,6 @@
   
   
 <br>
+
 ## 풀이
 <img src="https://user-images.githubusercontent.com/91609858/142420849-7068e861-7240-48fc-8d7d-10c733a372a7.PNG" width="500" height="800">
