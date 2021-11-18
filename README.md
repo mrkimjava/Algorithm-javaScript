@@ -6,3 +6,5 @@
 
 ### hash
  - <a href="https://github.com/mrkimjava/Algorithm-javaScript/tree/master/%ED%95%B4%EC%8B%9C">해시</a>
+ - <a href="https://github.com/mrkimjava/Algorithm-javaScript/tree/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0">완전탐색</a>
+ - <a href="https://github.com/mrkimjava/Algorithm-javaScript/tree/master/%EC%A0%95%EB%A0%AC/H-index">정렬</a>
