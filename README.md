@@ -10,6 +10,6 @@
  - <a href="https://github.com/mrkimjava/Algorithm-javaScript/tree/master/%EC%A0%95%EB%A0%AC">정렬</a>
 
 ### 카카오
- - <a href="https://github.com/mrkimjava/Algorithm-javaScript/tree/master/%EC%A0%95%EB%A0%AC">2020 KAKAO BLIND LV2_문자열 압축</a>
+ - <a href="https://github.com/mrkimjava/Algorithm-javaScript/tree/master/kakao/2020%20BLIND%20RECRUIMENT/LV2">2020 KAKAO BLIND LV2_문자열 압축</a>
 
  
